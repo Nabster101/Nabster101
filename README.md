@@ -22,6 +22,14 @@ open to any kind of life/working experience and eager to prove his worth.
 - Travel around the world
 - Work at a cool company like Discord :P    
 
+### ☎️ Contacts ☎️
+><img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Gmail.png" width="25px"> pietrocostanzi39@gmail.com  
+<img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Linkedin.png" width="25px"> <a href="https://www.linkedin.com/in/pietro-costanzi-fantini/" target="_top">Pietro Costanzi Fantini</a>  
+<img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Discord.png" width="25px"> Nabster#5576  
+<img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Facebook.png" width="25px"> <a href="https://www.facebook.com/pietro.costanzi.10/">Pietro Costanzi</a>  
+<img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Instagram.png" width="25px"> <a href="https://www.instagram.com/pietro.costanzi/">pietro.costanzi</a>  
+
+
 
 ## 🔧 Technologies & Tools 🔧
 
