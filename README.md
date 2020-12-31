@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello, folks! <img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/wave.gif" width="30px">
 
-![Header](https://github.com/Nabster101/Nabster101/blob/main/ReadmeBanner.png "Header")
+![Header](https://raw.githubusercontent.com/Nabster101/Nabster101/master/ReadmeBanner.png "Header")
 
 About Myself:
 
-I'm Pietro Costanzi Fantini, a Frontend developer and Graphics designer. I'm a young, dynamic and resourceful teen open to any kind of life/working experience and eager to prove his worth. 
+I'm Pietro Costanzi Fantini, a Frontend developer and Graphics designer. I'm a young, dynamic and resourceful teen 
+open to any kind of life/working experience and eager to prove his worth. 
 
 🔨 I’m currently working on 🔨
 - Development of a website in Gatsby.js for Coding Bunker
