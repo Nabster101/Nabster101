@@ -4,6 +4,8 @@
 
 About Myself:
 
+I'm Pietro Costanzi Fantini, a Frontend developer and Graphics designer. I'm a young, dynamic and resourceful teen open to any kind of life/working experience and eager to prove his worth. 
+
 🔨 I’m currently working on 🔨
 - Development of a website in Gatsby.js for Coding Bunker
 - Development of the online timetable fot my highschool 
