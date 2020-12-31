@@ -2,18 +2,19 @@
 
 ![Header](https://github.com/Nabster101/Nabster101/blob/main/ReadmeBanner.png "Header")
 
+About Myself:
 
-<!--
-**Nabster101/Nabster101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 I’m currently working on 🔨
+- Development of a website in Gatsby.js for Coding Bunker
+- Development of the online timetable fot my highschool 
+- My personal Portfolio 
 
-Here are some ideas to get you started:
+📚 I’m currently learning 📚
+- I'm taking multiple courses on Udemy on web development (JS, CSS, HTML, TS)
+- Learning mainly REACT and Gatsby.js lately
+- Getting started on backend development and databse management (MySQL, PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objectives 🚀
+- I plan to become a full-stack developer
+- Travel around the world
+- Work at a cool company like Discord :P
