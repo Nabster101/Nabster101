@@ -23,21 +23,21 @@ open to any kind of life/working experience and eager to prove his worth.
 - Work at a cool company like Discord :P    
 
 ### ☎️ Contacts ☎️
-<img align="center" style="padding-top: 30px" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Gmail.png" width="25px"> pietrocostanzi39@gmail.com  
-<img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Linkedin.png" width="25px"> <a href="https://www.linkedin.com/in/pietro-costanzi-fantini/" target="_top">Pietro Costanzi Fantini</a>  
-<img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Discord.png" width="25px"> Nabster#5576  
-<img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Facebook.png" width="25px"> <a href="https://www.facebook.com/pietro.costanzi.10/">Pietro Costanzi</a>  
-<img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Instagram.png" width="25px"> <a href="https://www.instagram.com/pietro.costanzi/">pietro.costanzi</a>  
+- <img align="center" style="padding-top: 50px" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Gmail.png" width="25px"> pietrocostanzi39@gmail.com  
+- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Linkedin.png" width="25px"> <a href="https://www.linkedin.com/in/pietro-costanzi-fantini/" target="_top">Pietro Costanzi Fantini</a>  
+- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Discord.png" width="25px"> Nabster#5576  
+- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Facebook.png" width="25px"> <a href="https://www.facebook.com/pietro.costanzi.10/">Pietro Costanzi</a>  
+- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Instagram.png" width="25px"> <a href="https://www.instagram.com/pietro.costanzi/">pietro.costanzi</a>  
 
 
 
 ## 🔧 Technologies & Tools 🔧
 
 ### 🖥️ OS 🖥️
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows)
+>![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows)
 
 ### 📖 Languages 📖
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
+>![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript)
@@ -48,7 +48,7 @@ open to any kind of life/working experience and eager to prove his worth.
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql)
 
 ### ✒️ Editors ✒️
-![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
+>![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
 ![](https://img.shields.io/badge/Webstorm-informational?style=flat&logo=webstorm)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
@@ -59,6 +59,6 @@ open to any kind of life/working experience and eager to prove his worth.
 
 ## 📈 Github Stats 📈
 <!-- Github stats -->
-<a href="https://github.com/Nabster101/Nabster101">
+><a href="https://github.com/Nabster101/Nabster101">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabster101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabster101's GitHub Stats" />
 </a>
