@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/wave.gif" width="30px">
 
+<!--Main banner -->
 ![Header](https://raw.githubusercontent.com/Nabster101/Nabster101/master/ReadmeBanner.png "Header")
 
 ### 😄 About Myself 😄
@@ -7,21 +8,25 @@
 I'm Pietro Costanzi Fantini, a Frontend developer and Graphics designer. I'm a young, dynamic and resourceful teen   
 open to any kind of life/working experience and eager to prove his worth. 
 
+<!-- Working -->
 ### 🔨 What I’m currently working on 🔨
-- Development of a website in Gatsby.js for Coding Bunker
-- Development of the online timetable fot my highschool 
-- My personal Portfolio 
+- Development of a website in Gatsby.js for <a href="https://github.com/Coding-Bunker/official-website" target="_top">Coding Bunker</a>  
+- Development of the online <a href="https://www.itisfermi.edu.it/Orario/19_30%20ott_web/index.html" target="_top">timetable</a> for my highschool 
+- My personal <a href="http://pietro.cf/" target="_top">Portfolio</a> (WIP)
 
+<!-- Learning -->
 ### 📚 What I’m currently learning 📚
 - I'm taking multiple courses on Udemy on web development (JS, CSS, HTML, TS)
 - Learning mainly REACT and Gatsby.js lately
 - Getting started on backend development and databse management (MySQL, PHP)
 
+<!-- My objectives sections -->
 ### 🚀 My Objectives 🚀
 - I plan to become a full-stack developer
 - Travel around the world
 - Work at a cool company like Discord :P    
 
+<!-- Contacts section -->
 ### ☎️ Contacts ☎️
 - <img align="center" style="padding-top: 50px" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Gmail.png" width="25px"> pietrocostanzi39@gmail.com  
 - <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Linkedin.png" width="25px"> <a href="https://www.linkedin.com/in/pietro-costanzi-fantini/" target="_top">Pietro Costanzi Fantini</a>  
@@ -30,7 +35,7 @@ open to any kind of life/working experience and eager to prove his worth.
 - <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Instagram.png" width="25px"> <a href="https://www.instagram.com/pietro.costanzi/">pietro.costanzi</a>  
 
 
-
+<!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools 🔧
 
 ### 🖥️ OS 🖥️
@@ -59,6 +64,11 @@ open to any kind of life/working experience and eager to prove his worth.
 
 ## 📈 Github Stats 📈
 <!-- Github stats -->
-><a href="https://github.com/Nabster101/Nabster101">
+<a href="https://github.com/Nabster101/Nabster101">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabster101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabster101's GitHub Stats" />
 </a>
+
+<a href="https://github.com/Nabster101/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
