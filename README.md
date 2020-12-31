@@ -69,6 +69,6 @@ open to any kind of life/working experience and eager to prove his worth.
 </a>
 
 <a href="https://github.com/Nabster101/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
