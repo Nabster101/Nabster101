@@ -42,24 +42,24 @@ open to any kind of life/working experience and eager to prove his worth.
 >![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows)
 
 ### 📖 Languages 📖
->![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript)
-![](https://img.shields.io/badge/REACT-informational?style=flat&logo=react)
-![](https://img.shields.io/badge/Gatsby.js-informational?style=flat&logo=gatsby)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java)  
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=c)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql)
+>![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/REACT-informational?style=flat&logo=react&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/Gatsby.js-informational?style=flat&logo=gatsby&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2BBC8A)  
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2BBC8A)
 
 ### ✒️ Editors ✒️
->![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
-![](https://img.shields.io/badge/Webstorm-informational?style=flat&logo=webstorm)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code)
-![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
-![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop)  
-![](https://img.shields.io/badge/Adobe_After_Effects-informational?style=flat&logo=adobe-after-effects)
-![](https://img.shields.io/badge/Data_Grip-informational?style=flat&logo=jetbrains)  
+>![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=1B4965)
+![](https://img.shields.io/badge/Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=1B4965)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1B4965)
+![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=1B4965)
+![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=1B4965)  
+![](https://img.shields.io/badge/Adobe_After_Effects-informational?style=flat&logo=adobe-after-effects&logoColor=white&color=1B4965)
+![](https://img.shields.io/badge/Data_Grip-informational?style=flat&logo=jetbrains&logoColor=white&color=1B4965)  
 
 
 ## 📈 Github Stats 📈
