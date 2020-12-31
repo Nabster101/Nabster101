@@ -66,9 +66,9 @@ open to any kind of life/working experience and eager to prove his worth.
 <!-- Github stats -->
 <a href="https://github.com/Nabster101/Nabster101">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabster101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabster101's GitHub Stats" />
-</a>
+</a>  
 
 <a href="https://github.com/Nabster101/Portfolio">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
