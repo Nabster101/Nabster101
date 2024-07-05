@@ -11,7 +11,7 @@ open to any kind of life/working experience and eager to prove his worth.
 <!-- Working -->
 ### 🔨 What I’m currently working on 🔨
 - Getting my degree in Computer Science!
-- My personal <a href="http://pietro.ml/" target="_top">Portfolio</a>
+- Updating my personal <a href="http://pietrocf.ovh/" target="_top">Portfolio</a>
 
 <!-- Learning -->
 ### 📚 What I’m currently learning 📚
