@@ -39,6 +39,7 @@ open to any kind of life/working experience and eager to prove his worth.
 
 ### 🖥️ OS 🖥️
 >![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows)
+>![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux)
 
 ### 📖 Languages 📖
 >![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2BBC8A)
@@ -64,10 +65,5 @@ open to any kind of life/working experience and eager to prove his worth.
 ## 📈 Github Stats 📈
 <!-- Github stats -->
 <a href="https://github.com/Nabster101/Nabster101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nabster101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabster101's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabster101&langs_count=5&layout=compact&theme=dark&hide=TypeScript" alt="Nabster101's GitHub Stats" />
 </a>  
-
-<a href="https://github.com/Nabster101/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabster101&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
