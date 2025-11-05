@@ -5,32 +5,31 @@
 
 ### 😄 About Myself 😄
 
-I'm Pietro Costanzi Fantini, a Frontend developer and Graphics designer. I'm a young, dynamic and resourceful developer   
+I'm Pietro Costanzi Fantini, currently a student working on getting his Master's Degree in Computer Science. I'm a young, dynamic and resourceful developer   
 open to any kind of life/working experience and eager to prove his worth. 
 
 <!-- Working -->
 ### 🔨 What I’m currently working on 🔨
-- Getting my degree in Computer Science!
+- Getting my Master's Degree in Computer Science!
+- Finding an intership
 - Updating my personal <a href="http://pietrocf.ovh/" target="_top">Portfolio</a>
 
 <!-- Learning -->
 ### 📚 What I’m currently learning 📚
-- I'm taking multiple courses on Udemy on web development (JS, CSS, HTML, TS)
-- Learning mainly REACT 
-- Getting started on backend development and databse management (MySQL, PHP)
+- Data Science (mainly pandas)
+- Machine Learning
+- Computer graphics systems
 
 <!-- My objectives sections -->
 ### 🚀 My Objectives 🚀
-- I plan to become a full-stack developer
-- Travel around the world
-- Work at a cool company like Discord :P    
+- I plan to work in a motorsports context
+- Travel around the world   
 
 <!-- Contacts section -->
 ### ☎️ Contacts ☎️
 - <img align="center" style="padding-top: 50px" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Gmail.png" width="25px"> pietrocostanzi39@gmail.com  
 - <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Linkedin.png" width="25px"> <a href="https://www.linkedin.com/in/pietro-costanzi-fantini/" target="_top">Pietro Costanzi Fantini</a>  
-- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Discord.png" width="25px"> Nabster#5576  
-- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Facebook.png" width="25px"> <a href="https://www.facebook.com/pietro.costanzi.10/">Pietro Costanzi</a>  
+- <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Discord.png" width="25px"> nabster.  
 - <img align="center" src="https://raw.githubusercontent.com/Nabster101/Nabster101/master/Instagram.png" width="25px"> <a href="https://www.instagram.com/pietro.costanzi/">pietro.costanzi</a>  
 
 
